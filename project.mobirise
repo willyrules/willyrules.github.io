@@ -687,7 +687,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Swordfish paint",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -736,6 +736,18 @@
                 "customStyle1": "display-7",
                 "caption": "Pinchedkiwiphoto",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180203-wa0001-1-878x968.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180203-wa0001-1-878x968-800x882.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "abyss",
+                "active": true
               }
             ]
           }
