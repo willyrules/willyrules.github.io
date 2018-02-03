@@ -758,7 +758,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180203-wa0004-1600x1600-800x800.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "abyss",
+                "caption": "Flying",
                 "active": false
               },
               {
@@ -770,7 +770,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180203-wa0003-1-1102x900-800x653.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Pinchedkiwiphoto",
+                "caption": "Fireworks",
                 "active": false
               },
               {
@@ -782,7 +782,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180203-wa0005-1-1065x863-800x648.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Pinchedkiwiphoto",
+                "caption": "Squared",
                 "active": false
               },
               {
@@ -794,7 +794,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180203-wa0002-1-1024x826-800x645.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Pinchedkiwiphoto",
+                "caption": "Graffiti",
                 "active": false
               },
               {
@@ -806,7 +806,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lampada-1-476x809-476x809.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Pinchedkiwiphoto",
+                "caption": "Lamp",
                 "active": true
               }
             ]
